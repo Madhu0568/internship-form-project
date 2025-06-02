@@ -29,6 +29,13 @@ Visit `http://localhost:3000` to use the form. Backend runs on `http://localhost
 ## Folder Structure
 ```
 internship-form-project/
-  ├── frontend/   # React form
-  └── backend/    # Node.js API
+├── frontend/
+│   ├── App.js
+│   ├── InternshipForm.jsx
+│   ├── package.json (React one)
+├── backend/
+│   ├── server.js
+│   ├── package.json (Backend one)
+├──README.md
+
 ```
